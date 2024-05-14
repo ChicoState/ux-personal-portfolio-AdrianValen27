@@ -1,5 +1,5 @@
 # MacOS App Installation
-by Adrian Valencia on March 17, 2024
+by Adrian Valencia on May 14, 2024
 
 After years of loyal devotion to Windows, I found myself at a crossroads, yearning for a more **seamless** computing that would allow me to program and do my schoolwork more **efficiently** on a laptop with a good battery life.
 
